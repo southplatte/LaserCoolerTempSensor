@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempLogger", "TempLogger\TempLogger.csproj", "{2BC41449-8F44-47DC-A225-FB56D073A960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC41449-8F44-47DC-A225-FB56D073A960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC41449-8F44-47DC-A225-FB56D073A960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC41449-8F44-47DC-A225-FB56D073A960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC41449-8F44-47DC-A225-FB56D073A960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB0D1E4-49F0-44AA-A663-D0094D6B350F}
+	EndGlobalSection
+EndGlobal
